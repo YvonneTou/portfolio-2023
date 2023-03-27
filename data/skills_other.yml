@@ -1,0 +1,20 @@
+- name: Git
+  image: icons/others/logo-git.png
+
+- name: Github
+  image: icons/others/logo-github.png
+
+- name: Bootstrap
+  image: icons/others/logo-bootstrap.png
+
+- name: Figma
+  image: icons/others/logo-figma.png
+
+- name: Jira Kanban
+  image: icons/others/logo-jira.png
+
+- name: Trello
+  image: icons/others/logo-trello.png
+
+- name: Slack
+  image: icons/others/logo-slack.png

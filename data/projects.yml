@@ -1,19 +1,19 @@
 - name: Yasashii
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+  description: Yasashii is an automated voice call translation service for booking clinic appointments in Japan.
+  image: projects/yasashii-multi.png
+  url: https://www.yasashii.care
 
 - name: Charachatch
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+  description: Characatch is a website for booking mascot costumed-performer services for events
+  image: projects/characatch-home.png
+  url: https://characatch.herokuapp.com
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Expense Tracker
+  description: A monthly expense tracker where user is able to view expenses all at once or filtered by year.
+  image: projects/exp-tracker-zoom-out.png
+  url: https://yvonnetou.github.io/expense-tracker/
 
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Intracari
+  description: An internal marketplace website for Mercari employee. This project was demoed in the Company's internal hackathon - Go Bold Day (Dec 2022).
+  image: projects/intracari-home.png
+  url: https://yvonnetou.github.io/intracari

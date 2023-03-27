@@ -3,7 +3,29 @@
     <div class="container">
       <div id="about">
         <h2>Skills</h2>
-        <p>I'm ....</p>
+          <div>
+            <h5 class="title-lalign">Frameworks & Languages</h5>
+            <ul class="list-inline">
+              <% data.skills_lang.each do |lang| %>
+                <li>
+                  <%= image_tag lang.image, alt: lang.name, class: "skills-logo-inline" %>
+                </li>
+              <% end %>
+            </ul>
+          </div>
+
+            <div class="space-margin"></div>
+            <div>
+              <h5 class="title-lalign">Professional Tools</h5>
+              <ul class="list-inline">
+              <% data.skills_other.each do |other| %>
+                <li>
+                  <%= image_tag other.image, alt: other.name, class: "skills-logo-inline" %>
+                </li>
+              <% end %>
+            </ul>
+            </div>
+
       </div>
     </div>
   </div>

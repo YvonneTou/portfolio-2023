@@ -1,0 +1,23 @@
+- name: Ruby on Rails
+  image: icons/languages/logo-rubyonrails.png
+
+- name: Ruby
+  image: icons/languages/logo-ruby.png
+
+- name: React.js
+  image: icons/languages/logo-react.png
+
+- name: Stimulus.js
+  image: icons/languages/logo-stimulus.png
+
+- name: MySQL
+  image: icons/languages/logo-mysql.png
+
+- name: Javascript
+  image: icons/languages/logo-js.png
+
+- name: CSS
+  image: icons/languages/logo-css.png
+
+- name: HTML
+  image: icons/languages/logo-html.png
