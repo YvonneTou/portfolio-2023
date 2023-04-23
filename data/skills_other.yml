@@ -4,6 +4,12 @@
 - name: Github
   image: icons/others/logo-github.png
 
+- name: Google Cloud
+  image: icons/others/logo-google-cloud.png
+
+- name: Heroku
+  image: icons/others/logo-heroku.png
+
 - name: Bootstrap
   image: icons/others/logo-bootstrap.png
 
